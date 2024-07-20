@@ -1,4 +1,6 @@
 # Image_Processing
+![image](https://github.com/user-attachments/assets/5a24c9bb-b166-4b23-bc59-1d1331bf5a2c)
+
 
 ## 프로젝트 구성
 
