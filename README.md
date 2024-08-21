@@ -1,6 +1,6 @@
 # C++ 기반 영상처리 프로그래밍
 ![image](https://github.com/user-attachments/assets/c6c5f41d-b978-4d58-867e-5bbeb6aa7689)
-![image](https://github.com/user-attachments/assets/ceb5de22-9beb-4d96-b925-03a9e0340878)
+![image](https://github.com/user-attachments/assets/fe63cf7c-ca8e-4b58-844d-203768c752c0)
 ![image](https://github.com/user-attachments/assets/2ea466a0-fcae-497a-91f5-33881a9681ee)
 
 
